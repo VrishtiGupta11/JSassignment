@@ -1,6 +1,6 @@
 <div align="center"
    <h1>Day 2 Notes</h1>
-<div>
+</div>
 
 ---
 ### `Nested for loop` 
