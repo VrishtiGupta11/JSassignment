@@ -2,7 +2,6 @@
   <h2>Day 1 Notes</h2>
 </div>
 
----
 ### `Printing On Console`
 ```
 console.log("Hello, World!");
