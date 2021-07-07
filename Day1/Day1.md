@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align = center">
   <h2>Day 1 Notes<h2>
 </div>
     
