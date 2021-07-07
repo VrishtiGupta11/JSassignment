@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Day 1 Notes</h2>
+  <h1>Day 1 Notes</h1>
 </div>
 
 ### `Printing On Console`
