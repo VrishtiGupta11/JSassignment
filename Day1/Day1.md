@@ -1,4 +1,4 @@
-## Day 1 Notes
+<h2 style="text-align: center">Day 1 Notes<h2>
 
 ### `Printing On Console`
 ```
