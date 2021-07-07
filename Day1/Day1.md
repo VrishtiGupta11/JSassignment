@@ -30,7 +30,7 @@ console.log(c)
 console.log(a)
 ```
 
-### Conditional Statement
+**`Conditional Statement`**
 ```
 a = -10
 if(a>0)
@@ -86,7 +86,7 @@ for(i=0;i<5;i++)
   console.log('*')
 }
 ```
-### Assignment
+### Assignment Question
 ```
 str = ""
 for(i=0;i<5;i++)
