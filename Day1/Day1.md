@@ -1,15 +1,15 @@
 ## Day 1 Notes
 
-### Printing On Console
+### `Printing On Console`
 ```
 console.log("Hello, World!");
 ```
-### Variable Declaration using let keyword.
+### `Variable Declaration using let keyword`
 ```
 let name = 'Vrishti Gupta'
 console.log('Vrishti')
 ```
-### Mathematical operations
+### `Mathematical operations`
 ```
 let a = 10
 let b = 3
@@ -20,7 +20,7 @@ console.log(a/b)
 console.log(a%b)
 ```
 
-### Relational Operations
+### `Relational Operations`
 ```
 e = 10
 f = 10
@@ -31,6 +31,7 @@ console.log(a)
 ```
 
 ### `Conditional Statement`
+#### To check whether no. is positive, negative or zero
 ```
 a = -10
 if(a>0)
@@ -73,7 +74,7 @@ else
     console.log("Not a Leap Year")  
   }
 ```
-### Loop
+### `Loop`
 ```
 for(i=0;i<5;i++)
 {
@@ -86,7 +87,7 @@ for(i=0;i<5;i++)
   console.log('*')
 }
 ```
-### Assignment Question
+### `Assignment Question`
 ```
 str = ""
 for(i=0;i<5;i++)
