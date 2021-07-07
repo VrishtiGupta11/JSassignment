@@ -1,5 +1,5 @@
 <div align="center"
-   <h1>Day 2 Notes</h1>
+   <h2>Day 2 Notes</h2>
 </div>
 
 ---
