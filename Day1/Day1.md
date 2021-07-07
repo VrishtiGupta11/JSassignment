@@ -30,7 +30,7 @@ console.log(c)
 console.log(a)
 ```
 
-**`Conditional Statement`**
+### `Conditional Statement`
 ```
 a = -10
 if(a>0)
