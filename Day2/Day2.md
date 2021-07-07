@@ -1,7 +1,8 @@
 <div align="center"
-     <h1>Day 2 Notes</h1>
+   <h1>Day 2 Notes</h1>
 <div>
 
+---
 ### `Nested for loop` 
 1. 
 ```
