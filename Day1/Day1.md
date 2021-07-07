@@ -1,5 +1,7 @@
-<h2 style="text-align: center">Day 1 Notes<h2>
-
+<div style="text-align: center;">
+  <h2>Day 1 Notes<h2>
+</div>
+    
 ### `Printing On Console`
 ```
 console.log("Hello, World!");
