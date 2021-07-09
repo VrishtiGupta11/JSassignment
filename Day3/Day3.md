@@ -69,3 +69,23 @@ for(i=0;i<s.length;i++)
 }
 console.log(s.substring(0,3))
 ```
+```
+a = "Vrishti Gupta"
+console.log(a.substring(5,10))
+console.log(a.substring(0))
+console.log(a.substring(10,5))
+```
+```
+s = "*****"
+for(i=0;i<s.length;i++)
+{
+  console.log(s.substring(i))
+}
+```
+```
+s = "*****"
+for(i=0;i<=s.length;i++)
+{
+  console.log(s.substring(0,i))
+}
+```
